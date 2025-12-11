@@ -1,4 +1,5 @@
 import React from "react"
+import Sidebar from "./components/Sidebar/Sidebar"
 
 function App() {
 
@@ -6,6 +7,7 @@ function App() {
   return (
     <>
 
+      <Sidebar />
 
     </>
   )
